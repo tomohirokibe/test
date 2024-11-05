@@ -1,1 +1,8 @@
+body {
+  background: #eee;
+}
 
+h1 {
+  font-size: 5em;
+  color: #666;
+}
